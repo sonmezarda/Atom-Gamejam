@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Format
+  - HataBlogu
+  - Tasinabilir
+  - OneWayPlatform
+  - Anahtar
+  - Isinlayici
+  - Magnet
+  - Miknatislanabilir
+  - Hand
+  - Kenar
+  - manager
+  - Platform
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Cam
+  - Karakter
+  - Platform
+  - PostProcessing
+  - Miknatislanabilir
+  - NhitRay
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
